@@ -1,0 +1,29 @@
+.dropdown-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.dropdown-select {
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #888;
+  margin-top: 10px;
+  cursor: pointer;
+  outline: none;
+}
+
+.result-box {
+  margin-top: 25px;
+  display: inline-block;
+  background-color: #f9f9f9;
+  padding: 12px 25px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.result-box span {
+  color: #2196f3;
+  font-weight: bold;
+}
